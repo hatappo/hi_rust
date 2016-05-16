@@ -1,0 +1,7 @@
+[package]
+name = "hi_iron"
+version = "0.1.0"
+authors = ["hata"]
+
+[dependencies]
+iron = "0.3.0"
